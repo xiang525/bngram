@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/xz186023/Desktop/workspace-bngram/new/lib/collections-generic-4.01.jar"/>
+	<classpathentry kind="lib" path="/Users/xz186023/Desktop/workspace-bngram/new/lib/colt-1.2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/xz186023/Desktop/workspace-bngram/new/lib/commons-io-2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/xz186023/Desktop/workspace-bngram/new/lib/commons-lang.jar"/>
+	<classpathentry kind="lib" path="/Users/xz186023/Desktop/workspace-bngram/new/lib/commons-math3-3.2.jar"/>
+	<classpathentry kind="lib" path="/Users/xz186023/Desktop/workspace-bngram/new/lib/gson-2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/xz186023/Desktop/workspace-bngram/new/lib/jblas-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/xz186023/Desktop/workspace-bngram/new/lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/xz186023/Desktop/workspace-bngram/new/lib/jung-algorithms-2.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/xz186023/Desktop/workspace-bngram/new/lib/jung-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/xz186023/Desktop/workspace-bngram/new/lib/jung-graph-impl-2.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/xz186023/Desktop/workspace-bngram/new/lib/jung-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/xz186023/Desktop/workspace-bngram/new/lib/lingpipe-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/xz186023/Desktop/workspace-bngram/new/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="/Users/xz186023/Desktop/workspace-bngram/new/lib/lucene-analyzers-common-4.2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/xz186023/Desktop/workspace-bngram/new/lib/lucene-core-4.2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/xz186023/Desktop/workspace-bngram/new/lib/mallet.jar"/>
+	<classpathentry kind="lib" path="/Users/xz186023/Desktop/workspace-bngram/new/lib/mongo-2.10.1.jar"/>
+	<classpathentry kind="lib" path="/Users/xz186023/Desktop/workspace-bngram/new/lib/stanford-corenlp-3.2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/xz186023/Desktop/workspace-bngram/new/lib/trove-2.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/xz186023/Desktop/workspace-bngram/new/lib/twitter4j-core-3.0.3.jar"/>
+	<classpathentry kind="lib" path="/Users/xz186023/Desktop/workspace-bngram/new/lib/twitter4j-stream-3.0.3.jar"/>
+	<classpathentry kind="lib" path="/Users/xz186023/Desktop/workspace-bngram/new/lib/TMM.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
